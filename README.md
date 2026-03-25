@@ -1,22 +1,34 @@
-# Technical Talent Scouting & Identification
-### Strategic Market Mapping for the Indian Engineering Landscape
+# 🛰️ Technical Talent Scouting & Identification
 
-Standard recruitment in India is flooded with "Keyword Matching." My methodology is built on **Technical Signal Identification**—locating the 1% of Indian engineers who are building world-class infrastructure from within the local ecosystem.
+### Strategic Market Mapping for High-Scale Engineering
 
-## 🛠️ The 3-Layer Identification Process (India Focus):
+Standard recruitment is flooded with "Keyword Matching." My methodology is built on **Technical Signal Identification**—locating the top 1% of engineers who are building world-class infrastructure, regardless of where they are physically sitting. 
 
-### 1. Digital Footprint Analysis (The "Scent")
-I identify India-based contributors to the global engineering community:
-* **Open Source Mastery:** Tracking India-based core contributors to high-performance libraries (Rust, Go, JVM).
-* **Technical Advocacy:** Following engineers at Indian unicorns and GCCs (Global Capability Centers) who publish deep-dives on distributed systems.
-
-### 2. India Market Mapping (The "Incubators")
-I map the "Engineering Lineage" of top-tier Indian tech hubs:
-* **Talent Incubators:** Targeting elite teams within firms like **Zodius, Zerodha, Zoho,** and specialized **GCCs (e.g., Goldman Sachs, Uber India, Google Bangalore)** known for "Metal" level systems work.
-* **Tier-1 Pedigree + Real World Grit:** Identifying the "Rising Stars" from top IITs/IIITs who have skipped the "standard path" to build complex systems at scale.
-
-### 3. The Consultative Engagement
-I speak the language of the Indian Tech Lead. I don't sell "CTC"; I discuss **Architectural Ownership** and **System Constraints** to find the perfect alignment between a candidate's mastery and the company's mission.
+I operate on a remote-first, location-agnostic model, mapping talent networks across primary and emerging tech hubs globally.
 
 ---
-**High-Retention Hires | Architectural Alignment | India-Specific Search Strategy**
+
+## 🛠️ The 3-Layer Identification Process
+
+### 1. Digital Footprint Analysis (The "Scent")
+I find active builders where they actually hang out, not just on job boards:
+* **Open Source Mastery:** Tracking core contributors to high-performance libraries (Rust, Go, C++, JVM).
+* **Technical Engineering Blogs:** Following engineers who publish deep-dives on database internals, distributed systems, and network architecture.
+
+### 2. Market Mapping (The "Incubators")
+I map the "Engineering Lineage" of top-tier product environments:
+* **Product Talent Incubators:** Targeting elite product teams within lean, high-growth startups and tech giants.
+* **Heavy-Engineering Hubs:** Mapping specialized R&D centers known for "bare-metal" systems work.
+* **Pragmatic Pedigree:** Finding graduates from top-tier academic backgrounds who skipped standard corporate paths to build complex, scalable systems in the trenches.
+
+### 3. The Consultative Engagement
+I speak the language of the Tech Lead. I don't just sell compensation; I discuss **Architectural Ownership, Scale, and System Constraints**. This ensures a perfect alignment between a candidate's craft and the company's architectural mission.
+
+---
+
+## 🎯 Quick Snapshot
+
+* **Hiring Scope (All Levels):** * **Individual Contributors & Leads:** Software Engineers, Tech Leads, Polyglots (Rust/Go, High-Scale Backend, Frontend, DevOps, and Core Product).
+  * **Engineering Leadership:** Engineering Managers, Directors, VP of Engineering, and CTOs.
+* **Geography:** Based in India, scouting globally.
+* **Philosophy:** Finding engineers who view software as a craft, not just a ticket-closing job.
