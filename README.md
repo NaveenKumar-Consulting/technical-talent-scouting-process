@@ -29,6 +29,6 @@ I speak the language of the Tech Lead. I don't just sell compensation; I discuss
 ## 🎯 Quick Snapshot
 
 * **Hiring Scope (All Levels):** * **Individual Contributors & Leads:** Software Engineers, Tech Leads, Polyglots (Rust/Go, High-Scale Backend, Frontend, DevOps, and Core Product).
-  * **Engineering Leadership:** Engineering Managers, Directors, VP of Engineering, and CTOs.
+* **Engineering Leadership:** Engineering Managers, Directors, VP of Engineering, and CTOs.
 * **Geography:** Based in India, scouting globally.
 * **Philosophy:** Finding engineers who view software as a craft, not just a ticket-closing job.
