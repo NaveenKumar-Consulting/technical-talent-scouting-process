@@ -1,4 +1,4 @@
-# Technical Talent Scouting & Identification: India Edition
+# Technical Talent Scouting & Identification
 ### Strategic Market Mapping for the Indian Engineering Landscape
 
 Standard recruitment in India is flooded with "Keyword Matching." My methodology is built on **Technical Signal Identification**—locating the 1% of Indian engineers who are building world-class infrastructure from within the local ecosystem.
